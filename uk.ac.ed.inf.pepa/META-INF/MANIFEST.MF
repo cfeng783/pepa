@@ -67,5 +67,3 @@ Bundle-ClassPath: .,
  lib/log4j-1.2.13.jar,
  lib/ssj.jar,
  lib/antlr-3.3-complete.jar
-Require-Bundle: org.junit4,
- uk.ac.ed.inf.systemsbiology;bundle-version="0.0.23"

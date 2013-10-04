@@ -14,5 +14,8 @@
 	<classpathentry kind="lib" path="lib/ledatastream.jar"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/uk.ac.ed.inf.common"/>
+	<classpathentry kind="lib" path="C:/Users/fengcheng/Documents/GitHub/pepa/uk.ac.ed.inf.pepa/lib/mtj.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fengcheng/Documents/GitHub/pepa/uk.ac.ed.inf.pepa/lib/systemsbiology.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
